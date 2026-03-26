@@ -17,7 +17,7 @@ Compose Multiplatform • Kotlin Multiplatform • Jetpack Compose • Kotlin �
 ## 👨‍💻 About
 
 ### Professional
-Staff/Lead-level mobile engineer with **10+ years of experience** shipping production-grade Android and iOS apps for fintech, e-commerce, advertising, and transport.  
+Staff/Lead-level ai accelerated engineer with **10+ years of experience** shipping production-grade Android and iOS apps for fintech, e-commerce, advertising, and transport.  
 Focused on **composable architectures, team mentorship, and clean, testable code** that scales.
 
 ### Personal
